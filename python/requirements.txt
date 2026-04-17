@@ -1,2 +1,2 @@
-getpatter[local]
+getpatter>=0.4.3
 python-dotenv
